@@ -1,3 +1,9 @@
+tebu-flat-icon-theme (0.1.1) tambora; urgency=medium
+
+  * Refactor dir 
+
+ -- dotovr <dotovr@preko>  Sat, 02 Jul 2016 04:44:51 +0700
+
 tebu-flat-icon-theme (0.1.0) tambora; urgency=medium
 
   * Initial release 
