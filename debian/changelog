@@ -1,3 +1,10 @@
+tebu-flat-icon-theme (0.1.3) tambora; urgency=medium
+
+  * change size some icons
+  * add opera, midori
+
+ -- Syai Mif <syaimif@localhost>  Wed, 13 Jul 2016 21:31:53 +0700
+
 tebu-flat-icon-theme (0.1.2) tambora; urgency=medium
 
   * Add apps icons, add icons symlink and fix icons status
