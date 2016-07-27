@@ -1,3 +1,9 @@
+tebu-flat-icon-theme (0.1.4) tambora; urgency=medium
+
+  * rename X-browser 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 27 Jul 2016 11:21:07 +0700
+
 tebu-flat-icon-theme (0.1.3) tambora; urgency=medium
 
   * change size some icons
