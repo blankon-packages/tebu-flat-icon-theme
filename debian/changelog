@@ -1,3 +1,9 @@
+tebu-flat-icon-theme (0.1.5) tambora; urgency=medium
+
+  * change arch to all
+
+ -- Ahmad Haris <haris@blankon.id>  Sun, 28 Aug 2016 12:39:44 +0700
+
 tebu-flat-icon-theme (0.1.4) tambora; urgency=medium
 
   * rename X-browser 

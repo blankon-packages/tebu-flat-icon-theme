@@ -8,7 +8,7 @@ Homepage: https://github.com/BlankOn/tebu-flat
 Vcs-Bzr: http://dev.blankonlinux.or.id/bzr/tambora/tebu-flat-icon-theme
 
 Package: tebu-flat-icon-theme
-Architecture: any
+Architecture: all
 Depends: libgtk-3-0
 Description: Tebu Flat Icon Theme for BlankOn GNU/Linux
  This icon theme provides a scalable group of icons to be used by GTK+ 3.x
